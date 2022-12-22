@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @vladjuha
 - 👀 I’m interested in Front-end development
 - 🌱 I’m currently learning JavaScript and Java.
-- My first website: https://vladjuha.github.io/
 - 📫 How to reach me vlad.juhasz@gmail.com
 
 <!---
